@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Nguyen Quang Huy</h1>
+<h3 align="center">A passionate mobile developer from VietNam</h3>
+
+- 🌱 I’m currently learning **Reat JS**
+
+- 💬 Ask me about **Flutter, Dart.**
+
+- 📫 How to reach me **nqhhdev@gmail.com**
+
+- ⚡ Fun fact **I'm funny**
+
+
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nqhhdev) 
