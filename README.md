@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quang Huy</h1>
 <h3 align="center">A passionate mobile developer from VietNam</h3>
 
-- 🌱 I’m currently working **Flutter **
+- 🌱 I’m currently working **Flutter**
 
 - 💬 Ask me about **Flutter, Dart.**
 
