@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quang Huy</h1>
 <h3 align="center">A passionate mobile developer from VietNam</h3>
 
-- 🌱 I’m currently working **Flutter**
-
-- 💬 Ask me about **Flutter, Dart.**
-
-- 📫 How to reach me **nqhhdev@gmail.com**
-
-- ⚡ Fun fact **I'm funny**
+🔭 I’m currently working as Open Source Software Engineer ***Flutter***
+👯 I’m looking to collaborate on Open-Source community
+📫 How to reach me **nqhhdev@gmail.com**
 
 
 
 ### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nqhhdev) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nqhh.dev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nqhhdev) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nqhh.dev) 
 
