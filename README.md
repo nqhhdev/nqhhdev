@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quang Huy</h1>
 <h3 align="center">A passionate mobile developer from VietNam</h3>
 
-🔭 I’m currently working as Open Source Software Engineer ***Flutter***
-👯 I’m looking to collaborate on Open-Source community
-📫 How to reach me **nqhhdev@gmail.com**
+- 🔭 I’m currently working as Open Source Software Engineer ***Flutter***
+
+- 👯 I’m looking to collaborate on Open-Source community
+
+- 📫 How to reach me **nqhhdev@gmail.com**
 
 
 
