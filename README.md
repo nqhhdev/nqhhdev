@@ -20,7 +20,7 @@
 <h3 align="left">🔭 GitHub Highlights:</h3>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nqhhdev&show_icons=true&locale=en&theme=gruvbox" alt="dab246" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nqhhdev&theme=gruvbox" alt="dab246" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nqhhdev&theme=gruvbox" alt="nqhhdev" /></p>
 
 <h3 align="left">🏆 Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nqhhdev&theme=gruvbox" alt="nqhhdev" /></a> </p>
