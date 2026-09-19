@@ -59,8 +59,6 @@ My focus is on the hard parts: system design under real constraints, complex med
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nqhhdev&show_icons=true&locale=en&theme=gruvbox&hide_border=true&rank_icon=github" alt="GitHub Stats" height="160"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nqhhdev&theme=gruvbox&hide_border=true" alt="Streak" height="160"/>
 
 ---
