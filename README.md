@@ -13,7 +13,7 @@
 
 I build Flutter applications that ship to production and stay there. 6+ years across four demanding domains — **email clients** (JMAP protocol, multi-platform sync), **financial platforms** (KYC, investment flows, encrypted data), **Web3** (wallet integration, real-time on-chain data), and **Matrix-based communication** (federated real-time chat, push rules, end-to-end encrypted messaging) — plus e-commerce at scale.
 
-Currently contributing to open source at **[Linagora](https://github.com/linagora)**. My focus is on the hard parts: system design under real constraints, complex media pipelines, real-time sync, and shipping features that hold up in production.
+My focus is on the hard parts: system design under real constraints, complex media pipelines, real-time sync, and shipping features that hold up in production.
 
 ---
 
