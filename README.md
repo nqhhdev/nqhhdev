@@ -39,8 +39,6 @@ My focus is on the hard parts: system design under real constraints, complex med
 
 | Repository | Stars | |
 |---|---|---|
-| [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | ⭐ 608 | JMAP multi-platform email client |
-| [linagora/twake-on-matrix](https://github.com/linagora/twake-on-matrix) | ⭐ 154 | Matrix-based secure chat |
 | [rvamsikrishna/inview_notifier_list](https://github.com/rvamsikrishna/inview_notifier_list) | ⭐ 682 | Flutter viewport package |
 | [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced) | ⭐ 293 | Rich text editor package |
 
